@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UbiquidTest</string>
+
+    <string name="placeholder">Placeholder</string>
+
+    <string name="display_code_values_title">QR Code détecté</string>
+    <string name="display_code_values_value">Information du code:</string>
+
+    <string name="bottom_navigation_menu_detect_code">Lecture de code</string>
+    <string name="bottom_navigation_menu_evluate_detection">Evaluer la détection</string>
+
+    <string name="evaluation_display_title">Résultats de l\'évaluation</string>
+    <string name="evaluation_display_code_number">Nombre de codes scannés:</string>
+    <string name="evaluation_display_qrcode_number">Nombre de QR Code scannés:</string>
+    <string name="evaluation_display_datamatrix_number">Nombre de Data Matrix scannées:</string>
+    <string name="evaluation_display_codes_values">Information des codes scannés:</string>
+</resources>

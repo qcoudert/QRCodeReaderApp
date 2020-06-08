@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/code_reading"
+        android:icon="@drawable/ic_baseline_crop_original_24"
+        android:title="@string/bottom_navigation_menu_detect_code"
+        android:checkable="true"
+        android:checked="false" />
+    <item
+        android:id="@+id/evaluate_detection"
+        android:icon="@drawable/ic_baseline_description_24"
+        android:title="@string/bottom_navigation_menu_evluate_detection"
+        android:checkable="true"
+        android:checked="true"/>
+</menu>
